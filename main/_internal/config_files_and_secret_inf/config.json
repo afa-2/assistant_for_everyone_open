@@ -1,0 +1,16 @@
+{
+  "telegram_token": "11111:1111111111111111",
+  "users": {
+    "684416659": {
+      "name": "Afa",
+      "open_ai_key": "sk-111111111111111111",
+      "assistant_id": "asst_11111111111111111111111"
+    },
+
+    "11111111": {
+      "name": "Name",
+      "open_ai_key": "111111111111111",
+      "assistant_id": "asst_ggggggggggggggggg"
+    }
+  }
+}

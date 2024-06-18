@@ -1,0 +1,43 @@
+2024-06-18 04:49:02,508 [INFO] Бот запущен
+2024-06-18 05:10:30,220 [INFO] Бот запущен
+2024-06-18 05:34:18,322 [INFO] Бот запущен
+2024-06-18 05:35:28,308 [INFO] Бот запущен
+2024-06-18 05:49:50,384 [INFO] Бот запущен
+2024-06-18 05:50:17,747 [INFO] HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-06-18 05:50:28,039 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages "HTTP/1.1 200 OK"
+2024-06-18 05:50:28,492 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs "HTTP/1.1 200 OK"
+2024-06-18 05:50:28,897 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_eUDHL5ka9xHF91da60wCzl0R "HTTP/1.1 200 OK"
+2024-06-18 05:50:30,291 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_eUDHL5ka9xHF91da60wCzl0R "HTTP/1.1 200 OK"
+2024-06-18 05:50:31,685 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_eUDHL5ka9xHF91da60wCzl0R "HTTP/1.1 200 OK"
+2024-06-18 05:50:33,059 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_eUDHL5ka9xHF91da60wCzl0R "HTTP/1.1 200 OK"
+2024-06-18 05:50:34,507 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_eUDHL5ka9xHF91da60wCzl0R "HTTP/1.1 200 OK"
+2024-06-18 05:50:35,955 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_eUDHL5ka9xHF91da60wCzl0R "HTTP/1.1 200 OK"
+2024-06-18 05:50:36,238 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages?before=msg_kEckMm2FIIS5bzr7MOIwXHhI "HTTP/1.1 200 OK"
+2024-06-18 07:36:07,868 [INFO] Бот запущен
+2024-06-18 07:37:05,781 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages "HTTP/1.1 200 OK"
+2024-06-18 07:37:06,469 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs "HTTP/1.1 200 OK"
+2024-06-18 07:37:12,485 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_Puf7qiJkOHvtAyojKtaogTz9 "HTTP/1.1 200 OK"
+2024-06-18 07:37:12,914 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages?before=msg_ceccAy895CDMD6nhnWqw3irH "HTTP/1.1 200 OK"
+2024-06-18 07:40:08,119 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages "HTTP/1.1 200 OK"
+2024-06-18 07:40:08,617 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs "HTTP/1.1 200 OK"
+2024-06-18 07:40:09,046 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:10,414 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:11,831 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:13,189 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:14,649 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:16,059 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:17,425 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:18,848 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_IPqUTKZsLhL2B07HFNQbJOtE "HTTP/1.1 200 OK"
+2024-06-18 07:40:19,162 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages?before=msg_NGrb5XOnjH7ZrCC72rH7EmVw "HTTP/1.1 200 OK"
+2024-06-18 07:41:51,285 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages "HTTP/1.1 200 OK"
+2024-06-18 07:41:51,944 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs "HTTP/1.1 200 OK"
+2024-06-18 07:41:52,464 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_84mcQi5pc9NerbWWI21JmW6c "HTTP/1.1 200 OK"
+2024-06-18 07:41:53,861 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_84mcQi5pc9NerbWWI21JmW6c "HTTP/1.1 200 OK"
+2024-06-18 07:41:55,274 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_84mcQi5pc9NerbWWI21JmW6c "HTTP/1.1 200 OK"
+2024-06-18 07:41:56,725 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_84mcQi5pc9NerbWWI21JmW6c "HTTP/1.1 200 OK"
+2024-06-18 07:41:58,189 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/runs/run_84mcQi5pc9NerbWWI21JmW6c "HTTP/1.1 200 OK"
+2024-06-18 07:41:58,473 [INFO] HTTP Request: GET https://api.openai.com/v1/threads/thread_aJwRjfriUI6wPlmpVxdYzrc6/messages?before=msg_ripnl3CNLPhY0Qyy6K3c7Exs "HTTP/1.1 200 OK"
+2024-06-18 07:42:47,048 [INFO] HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-06-18 07:47:18,968 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_5geOVvBG4iLOhKzG53lyI5Kf/messages "HTTP/1.1 200 OK"
+2024-06-18 07:47:19,309 [INFO] HTTP Request: POST https://api.openai.com/v1/threads/thread_5geOVvBG4iLOhKzG53lyI5Kf/runs "HTTP/1.1 400 Bad Request"
+2024-06-18 07:47:20,311 [ERROR] Ошибка в функции send_question_in_openai_and_get_answer: Error code: 400 - {'error': {'message': "The requested model 'gpt-4o' cannot be used with the Assistants API in v1. Follow the migration guide to upgrade to v2: https://platform.openai.com/docs/assistants/migration.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_model'}}
